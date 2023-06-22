@@ -1,0 +1,3 @@
+register form is a form with the user credentials like user name and password. we have to remember the password in rder to submit the form.
+user can create its own user id and password.
+it has so many fields for the user input like dob, adress..
